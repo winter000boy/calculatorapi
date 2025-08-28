@@ -78,7 +78,8 @@ Suggestions and contributions are welcome! Fork, create issues, or submit pull r
 ## 📫 Contact
 
 - GitHub: [winter000boy](https://github.com/winter000boy)
-- [Your preferred contact/email/social link here]
+- email : sharmajidurgesh04@gmail.com
+- LinkedIn : linkedin.com/sharmajidurgesh
 
 ---
 
