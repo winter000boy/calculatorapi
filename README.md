@@ -79,7 +79,7 @@ Suggestions and contributions are welcome! Fork, create issues, or submit pull r
 
 - GitHub: [winter000boy](https://github.com/winter000boy)
 - email : sharmajidurgesh04@gmail.com
-- LinkedIn : www.linkedin.com/sharmajidurgesh
+- LinkedIn : www.linkedin.com/in/sharmajidurgesh
 
 ---
 
